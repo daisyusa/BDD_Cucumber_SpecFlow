@@ -1,0 +1,13 @@
+# Tutorial
+
+https://testautomationu.applitools.com/behavior-driven-python-with-pytest-bdd/
+
+This course is a combination of the two: Behavior-Driven Python with pytest-bdd.
+
+As the name suggests, in this course, we will learn how to use the pytest-bdd test framework 
+to write behavior-driven tests in Python. We'll start by learning a little bit about Behavior-Driven Development
+and what advantages it can offer us. We'll even compare different Python BDD-style frameworks to show why I chose 
+pytest-bdd for this course over others like Behave and Radish.
+
+Then, for the majority of the lessons, we'll be looking at how to use pytest-bdd – from writing feature files, to step definitions, 
+to tag filtering, and everything in between.
